@@ -5,11 +5,12 @@ const mapsDir = __dirname + "/mapy";
 const indexPath = __dirname + '/mapy/index.html';
 
 const files = getAllFilesFromFolder(mapsDir);
-let out = "";
+let out = "<ol>";
 files.forEach((absPath) => {
     const relPath = path.relative(mapsDir, absPath);
-    out += '<a href="' + relPath + '">' + relPath + "</a>\n";
+    out += '<li><a href="' + relPath + '">' + relPath + "</a></li>\n";
 });
+out += '</ol>';
 
 console.log(out);
 fs.writeFileSync(indexPath, out);
