@@ -5,6 +5,12 @@ Data egzaminu: 18 września 2021
 
 
 
+Wyniki:
+
+![Wyniki lek Jędrzej Lewandowski](wyniki/wyniki1.png)
+
+Uzyskałem 83,6% => świetny wynik jak na pierwsze podejście 😇
+
 Mapy myśli:
 
 1. [Choroby wewnętrzne](./mapy/1.interna) (ukończone)
