@@ -1,4 +1,25 @@
-# lek
+# Lek 2°
+
+Drugie podejście do LEK — 19 lutego 2022.
+
+Kolejność nauki: 
+
+![Kolejność nauki do LEK](./kolejnosc-nauki.png)
+
+Reasumując nauka po kolei:
+
+1. Położnictwo i ginekologia (7 lekcji)
+2. Medycyna ratunkowa (5 lekcji)
+3. Pediatria (10 lekcji)
+4. Psychiatria (5 lekcji)
+5. Chirurgia (9 lekcji)
+6. Medycyna rodzinna (4 lekcje)
+7. Przed samym lekiem dokładnie: Bioetyka, prawo, zdrowie publiczne, orzecznictwo (5 lekcji)
+
+Choroby wewnętrzne tylko poprzez pytania powtarzam. Czyli mam lekcji do nauki: 45.
+
+# Lek 1°
+
 Przygotowanie do egzaminu LEK. 
 
 Data egzaminu: 18 września 2021
